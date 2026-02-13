@@ -16,11 +16,11 @@
 #   results) and in your feed.xml site description.
 
 title: Open Coding 
-description: "Class of 2026"
-owner_name: Open Coding Society 
-github_username: open-coding-society 
-github_repo: "pages" 
-baseurl: "" 
+description: "Class of 2028"
+owner_name: Ayden Dudley
+github_username: aydend456
+github_repo: "student" 
+baseurl: "/student" 
 future: true
 
 
